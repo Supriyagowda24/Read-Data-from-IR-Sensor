@@ -61,4 +61,5 @@ void loop() {
 ---
 
 ✅ Result
+
 Successfully interfaced IR sensor with Arduino UNO and detected object presence using digital input.
